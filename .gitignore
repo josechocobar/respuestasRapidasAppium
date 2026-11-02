@@ -1,0 +1,8 @@
+node_modules/
+dist/
+allure-results/
+allure-report/
+*.log
+tests/mobile/apks/*.apk
+.env
+.DS_Store
